@@ -3,13 +3,13 @@
 
 Make sure you have Dart and Flutter installed on your machine.
 
-Step 1: Verify Installation
+###Step 1: Verify Installation
 
 Check if Flutter and Dart are correctly installed in your machine:
 
 flutter doctor
 
-Step 2: Start the Server (Serverpod)
+###Step 2: Start the Server (Serverpod)
 
 Navigate to your server project folder:
 
@@ -27,7 +27,7 @@ dart bin/main.dart --apply-migrations
 
 -run the above command only once in inital setup, then after that just run: dart bin/main.dart
 
-Step 3: Run the Flutter UI
+###Step 3: Run the Flutter UI
 
 Navigate to your Flutter project folder:
 
@@ -54,7 +54,8 @@ flutter test
 
 -dart test
 
---
+## Command to push to main branch remote from the current local feature branch is:
+git push origin <your-feature-branch name here>:main
 
 Pro Tip: Run in debug mode to enable hot reload. This allows the UI to update automatically after saving code changes.
 
