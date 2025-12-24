@@ -56,7 +56,7 @@ flutter test
 
 ## Command to push to main branch remote from the current local feature branch is:
 
-git push origin <your-feature-branch name here>:main
+git push origin <<your-feature-branch name here>>:main
 
 
 
