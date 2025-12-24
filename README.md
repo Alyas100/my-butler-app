@@ -1,5 +1,5 @@
-My Butler Project - Setup Guide
-Prerequisites
+# My Butler Project - Setup Guide
+## Prerequisites
 
 Make sure you have Dart and Flutter installed on your machine.
 
